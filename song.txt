@@ -6,10 +6,4 @@ on this their chosen battle field
 line2
 ----------------------------------
 
-couplet2
-
-couplet 3
-
-additional info
-
-for tag only
+result
