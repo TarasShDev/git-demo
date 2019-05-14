@@ -8,3 +8,6 @@ line2
 
 result
 line1.1
+=======
+line2.1
+line2.2
